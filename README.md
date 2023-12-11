@@ -39,7 +39,9 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![img-20230702-112736-7381](https://github.com/MDIVAS/ZOHO-POWERPLANLITE/assets/127883304/435f6c43-2eab-4e2e-9a7b-c10605f45601)
+
+
 
 ### THIS POWERPLAN AIMS TO TWEAK THE KERNEL OF THE DEVICE  
 
@@ -57,13 +59,46 @@
       
          GPU PERFORMANCE FOR APPS THAT ARE GPU ORIENTED 
 
+
+
+
+## ZOHO CPU
+
+
+
+<img src="https://github.com/MDIVAS/ZOHO-POWERPLANLITE/assets/127883304/7d2613ed-fafb-4d16-a6d3-4ef3cfb327ec" width="360" height="360">
+<img src="https://github.com/MDIVAS/ZOHO-POWERPLANLITE/assets/127883304/5de3fbf4-0504-418e-b13d-e4a0b2ec4e89" width="270" height="480">
+
+###  ZOHO CPU:
+
+          INCREASES CPU PERFORMANCE BY 20% BY OVERCLOCK 
+          AND DECREASES GPU PERFORMANCE BY 15% BY UNDERCLOCK
+          IT HELPS TO MAKE THE DEVICE STABLE , REDUCE HEAT AND SAVE POWER 
+
+## ZOHO GPU 
+<img src="https://github.com/MDIVAS/ZOHO-POWERPLANLITE/assets/127883304/7d2613ed-fafb-4d16-a6d3-4ef3cfb327ec" width="360" height="360">
+
+<img src="https://github.com/MDIVAS/ZOHO-POWERPLANLITE/assets/127883304/52a0d073-e1e9-418e-87ef-7ce693a22704" width="270" height="480">
+
+### ZOHO GPU:
+             INCREASES GPU PERFORMANCE BY 30% BY OVERCLOCK 
+          AND DECREASES CPU PERFORMANCE BY 20% BY UNDERCLOCK
+          IT HELPS TO MAKE THE DEVICE STABLE , REDUCE HEAT AND SAVE POWER 
+
+    
+
 ## Built With
 
 ### KERNEL MANAGER 
 
+<img src="https://github.com/MDIVAS/ZOHO-POWERPLANLITE/assets/127883304/8e3fe6bb-c251-4ea7-8c23-c6f09e3b9055" width="270" height="480">
+
 ## Getting Started
 
  YOU CAN DOWNLOAD ZOHO POWERPLAN LITE FROM ZOHO STORE 
+
+
+ <img src="https://github.com/MDIVAS/ZOHO-POWERPLANLITE/assets/127883304/8cba1d1b-8567-4c24-8364-e0889adc85c8" width="360" height="360">
 
 ### Prerequisites
 
